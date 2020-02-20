@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file alias="f6m">f6m.wav</file>
+    </qresource>
+</RCC>
